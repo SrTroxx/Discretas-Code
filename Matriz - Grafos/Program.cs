@@ -9,6 +9,10 @@ namespace Matriz___Grafos
     {
         static void Main(string[] args)
         {
+            BreinerPruebas logica = new BreinerPruebas();
+            var respuesta = logica.Calcular(2, 4);
+            Console.WriteLine(respuesta);
+            Console.ReadKey();
             //la mala daniel
         }
     }
