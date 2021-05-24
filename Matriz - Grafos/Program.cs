@@ -9,6 +9,7 @@ namespace Matriz___Grafos
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola Mundo¡¡");
         }
     }
 }
