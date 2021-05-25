@@ -9,8 +9,6 @@ namespace Matriz___Grafos
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-
         
 
         }
@@ -57,13 +55,6 @@ namespace Matriz___Grafos
                     GenerarGrafo(ov,sangria+"\t");
                 }
             }
-=======
-            BreinerPruebas logica = new BreinerPruebas();
-            var respuesta = logica.Calcular(2, 4);
-            Console.WriteLine(respuesta);
-            Console.ReadKey();
-            //la mala daniel
->>>>>>> f9d3b3d967f31eb6dff7bf2c178f64eff29697ab
         }
     }
 }
