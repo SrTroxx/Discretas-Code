@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Universidad\MatDiscretas\Proyecto\Matriz - Grafos\bin\Debug\Matriz - Grafos.exe
+C:\Users\USER\Documents\Universidad\MatDiscretas\Proyecto\Matriz - Grafos\bin\Debug\Matriz - Grafos.pdb
+C:\Users\USER\Documents\Universidad\MatDiscretas\Proyecto\Matriz - Grafos\obj\Debug\Matriz - Grafos.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Universidad\MatDiscretas\Proyecto\Matriz - Grafos\obj\Debug\Matriz - Grafos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Universidad\MatDiscretas\Proyecto\Matriz - Grafos\obj\Debug\Matriz - Grafos.exe
+C:\Users\USER\Documents\Universidad\MatDiscretas\Proyecto\Matriz - Grafos\obj\Debug\Matriz - Grafos.pdb
